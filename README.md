@@ -7,3 +7,6 @@
 3. [The Impact of Reddit User Sentiment on Bitcoin Returns: Checking the Reddit Phenomenon Existence with RedditSI](https://github.com/Bakibak/Data/blob/main/Data_RedditSI.xlsx)
 
 4. [The Relationships Between RedditSI and BTC Exchange Characteristics: Do Reddit Users Still Control the Market?](https://github.com/Bakibak/Data/blob/main/Data_RedditSI.xlsx)
+
+# Hyperparameters of the ML-models:
+
