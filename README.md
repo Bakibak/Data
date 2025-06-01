@@ -10,5 +10,5 @@
 
 # Hyperparameters of ML-models:
 
-[py-file with hyperparameters](https://github.com/Bakibak/Data/blob/main/hyperparameters.py)
+[File .py with hyperparameters](https://github.com/Bakibak/Data/blob/main/hyperparameters.py)
 
