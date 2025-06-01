@@ -8,5 +8,7 @@
 
 4. [The Relationships Between RedditSI and BTC Exchange Characteristics: Do Reddit Users Still Control the Market?](https://github.com/Bakibak/Data/blob/main/Data_RedditSI.xlsx)
 
-# Hyperparameters of the ML-models:
+# Hyperparameters of ML-models:
+
+[py-file with hyperparameters](https://github.com/Bakibak/Data/blob/main/hyperparameters.py)
 
